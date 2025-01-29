@@ -1,9 +1,9 @@
 @font-face {
     font-family: 'Sitsiryesh';
-    src: url('fonts/Sitsiryesh-Regular.eot');
-    src: url('fonts/Sitsiryesh-Regular.eot?#iefix') format('embedded-opentype'),
-         url('fonts/Sitsiryesh-Regular.woff2') format('woff2'),
-         url('fonts/Sitsiryesh-Regular.woff') format('woff'),
-         url('fonts/Sitsiryesh-Regular.ttf')  format('truetype'),
-         url('fonts/Sitsiryesh-Regular.svg#Sitsiryesh') format('svg');
+    src: url('Sitsiryesh-Regular.eot');
+    src: url('Sitsiryesh-Regular.eot?#iefix') format('embedded-opentype'),
+         url('Sitsiryesh-Regular.woff2') format('woff2'),
+         url('Sitsiryesh-Regular.woff') format('woff'),
+         url('Sitsiryesh-Regular.ttf')  format('truetype'),
+         url('Sitsiryesh-Regular.svg#Sitsiryesh') format('svg');
 }
